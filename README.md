@@ -8,6 +8,8 @@ The repositary provided is a list of emojis available from the Unicode Consortiu
 
 **Research Question:** How do Emojis Naturalize Certain Images as Representations of Certain Ideas and Cultures?
 
+**Description:** Emojis are a form of visual culture widely used today, arising from and most dominantly used in social media. Emojis are often not used in the exact context of their creation and have different interpretations like any other image. And like any other image, it is important to understand the influences and biases involved in the creation of the image and the larger picture of what it gets used for. For instance, the usage of a Noh mask emoji to depict mock anger or seriousness can lead to a mocking of the art form itself. This is not to claim that emojis should not be interpeted contextually and invidiually, but that knowing the exact source and history of the images that make the emoji can lead to more self awareness in their usage and the biases thus created.  
+
 **Literature Review**
 In _Affective Practice of Soldiering: How Sharing Images Is Used to Spread Extremist and Racist Ethos on Soldiers of Odin Facebook Site_, Kaarina Nikunen discusses how emoji sharing among other forms of images can lead to the propagation of internalized racism.
 This is significant in the political climate of anti-immigration sentiment especially across white countries which are also the ones which hold technological dominance and the companies creating these emojis to begin with.
