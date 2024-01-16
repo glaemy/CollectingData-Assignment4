@@ -6,6 +6,8 @@ The repositary provided is a list of emojis available from the Unicode Consortiu
 
 **Topic:** Naturalization of Images Through Emojis
 
+**Abstract:** How do Emojis Naturalize Certain Images as Representations of Certain Ideas and Cultures? This project will explore the role played by emojis in the consolidation of certain kinds of representation of cultures and ideas. Emojis are already debated as being a language in itself and like any other mode of communication are subject to rules of discourse creation and propagation. Being a visual medium they will be studied as images depicting certain ideas and people in certain ways and their role in normalizing stereotypes. This is studied in the light of the larger power structure under which these emojis are created and spread.
+
 **Research Question:** How do Emojis Naturalize Certain Images as Representations of Certain Ideas and Cultures?
 
 **Description:** Emojis are a form of visual culture widely used today, arising from and most dominantly used in social media. Emojis are often not used in the exact context of their creation and have different interpretations like any other image. And like any other image, it is important to understand the influences and biases involved in the creation of the image and the larger picture of what it gets used for. For instance, the usage of a Noh mask emoji to depict mock anger or seriousness can lead to a mocking of the art form itself. This is not to claim that emojis should not be interpeted contextually and invidiually, but that knowing the exact source and history of the images that make the emoji can lead to more self awareness in their usage and the biases thus created.  
